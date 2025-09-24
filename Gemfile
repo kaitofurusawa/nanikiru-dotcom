@@ -9,7 +9,7 @@ gem "sprockets", "~> 4.2"
 
 gem "pg", "~> 1.6"
 
-gem "puma", "~> 6.6"
+gem "puma", "~> 7.0"
 
 gem "devise"
 
