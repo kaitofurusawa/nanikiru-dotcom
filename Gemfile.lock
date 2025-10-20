@@ -322,7 +322,7 @@ GEM
       date
       stringio
     public_suffix (6.0.1)
-    puma (6.6.1)
+    puma (7.1.0)
       nio4r (~> 2.0)
     raabro (1.4.0)
     racc (1.8.1)
@@ -578,7 +578,7 @@ DEPENDENCIES
   parallel_tests
   pg (~> 1.6)
   pry-rails
-  puma (~> 6.6)
+  puma (~> 7.1)
   rails (~> 8.0.2)
   rspec-rails
   rubocop-rails-omakase
